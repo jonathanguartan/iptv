@@ -3394,8 +3394,8 @@ http://echorouk-live-tv.dzsecurity.net:8081/echo/EchoroukNews/playlist.m3u8
 https://ecotel.streamseguro.com/hls/ecoteltv.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Ecran TV (720p) [Not 24/7]
 http://51.210.199.40/hls/stream.m3u8
-#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="Undefined",Ecuavisa (720p)
-https://livestreamcdn.net:444/Alientoenvivo/Alientoenvivo.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="Ecuavisa.ec" tvg-logo="https://i.imgur.com/Hl5wowk.png" group-title="General",Ecuavisa (720p)
+https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8
 #EXTINF:-1 tvg-id="EdailyTV.kr" tvg-logo="https://i.imgur.com/3E72tK9.png" group-title="Undefined",Edaily TV (1080p) [Not 24/7]
 https://ythls.onrender.com/channel/UC8Sv6O3Ux8ePVqorx8aOBMg.m3u8
 #EXTINF:-1 tvg-id="EDGEsport.uk" tvg-logo="https://i.imgur.com/oLmgGDG.png" group-title="Sports",EDGEsport (1080p)
